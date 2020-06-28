@@ -1,0 +1,191 @@
+header{
+	color:black;
+	background-color:#F24F4F;
+	height: 120px;
+	font-family: "arial";
+	font-variant: small-caps;
+	text-align: center;
+	font-size: 220%
+}
+footer{
+	display: block;
+	clear: both;
+	height: 120px;
+	font-family: "arial";
+	font-variant: small-caps;
+	text-align: center;
+	font-size: 220%
+}
+.edit{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+	max-width: 20%;
+}
+img{
+	border-radius: 100%;
+}
+
+h1{
+	font-family: arial;
+	font-style: italic;
+	font-size: 40px;
+	width: 500px;
+	text-align: center;
+	background-color: #FFE6E6;
+	border-radius: .25em;
+}
+h2{
+	font-family: arial;
+	font-style: italic;
+	text-align: center;
+	font-size: 35px;
+	text-align: center;
+	background-color: #589FDA;
+
+}
+.hedit{
+	display: block;
+    border-radius: .25em;
+	margin-left: auto;
+	margin-right: auto;
+    width: 450px;
+}
+.h1edit{
+	display: block;
+    border-radius: .25em;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+}
+a{
+	font-size: 100px;
+	text-align: center;
+}
+a:hover{
+	background-color: #B3B3B3;
+	color: #0006CC;
+	border-radius: 0.25em;
+}
+
+i{
+	padding-right: 30px;
+	padding-left: 30px;
+	text-align: center;
+}
+div{
+	display: block;
+	text-align: center;
+
+}
+span{
+	display: inline-block;
+	font-size: 30px;
+}
+
+section{
+  display: inline-block;
+  border: 5px;
+  background-color: #e6f9f9;
+  padding: 1%;
+  margin: 1%;
+  border-radius: .50em;
+  float: left;
+}
+.hobbysec{
+	float: left;
+	height: auto;
+	width: 22%;
+}
+.socialsec{
+	float: left;
+	clear: left;
+	height: auto;
+	width: 20%;
+}
+.academicSection{
+	float: right;
+	width: 68%;
+}
+.skillsec{
+	float: right;
+	width: 68%;
+}
+.crSection{
+	float: right;
+	width: 68%;
+}
+.cnSection{
+	float: right;
+	width: 68%;
+}
+.bioSection{
+display: inline-block;
+float: left;
+width: 70%;	
+}
+.ftsec{
+	width: 98%;
+	background-color: #FFFFFF;
+}
+
+.pbio{
+font-family: monospace;
+font-size: 30px;	
+}
+
+
+.pa{
+	font-size: 25px;
+	font-family: arial;
+}
+.spac{
+	font-size: 22px;
+	font-family: arial;
+	font-style: b;
+}
+.s1{
+	margin-right: 30px;
+	font-variant: small-caps;
+	
+}
+.cr{
+	float:center;
+	margin-left: 0px;
+}
+iframe{
+	height: 580px;
+	width: 750px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.see{
+	font-family: arial;
+	font-size: 20px;
+	margin-right: auto;
+	margin-left: auto;
+}
+table{
+	margin-right: auto;
+	margin-left: auto;
+	width: 100%
+}
+tr{
+	font-family: arial;
+	text-align: left;
+	background-color: ;
+	border-radius: .50em;
+
+}
+td{
+	background-color: #caceff;
+	border-radius: .50em;
+	font-size: 20px;
+}
+th{
+	background-color:#00ffff; 
+	border-radius: .50em;
+	font-size: 25px;
+}
